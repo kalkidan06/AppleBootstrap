@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\apple-responsive-replica-html-css-mar-2020"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "apple-responsive-replica-html-css-mar-2020"
+  }
+}
